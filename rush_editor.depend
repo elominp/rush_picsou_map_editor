@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1425124101 source:/home/guigui/Documents/CodeBlocks/rush_editor/main.cpp
+	<iostream>
+	"include/Editor.h"
+
+1425136072 source:/home/guigui/Documents/CodeBlocks/rush_editor/src/Map.cpp
+	"Map.h"
+
+1425136072 /home/guigui/Documents/CodeBlocks/rush_editor/include/Map.h
+	<cstdlib>
+
+1425131890 source:/home/guigui/Documents/CodeBlocks/rush_editor/src/MapFile.cpp
+	"MapFile.h"
+
+1425120141 /home/guigui/Documents/CodeBlocks/rush_editor/include/MapFile.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<unistd.h>
+	"Map.h"
+
+1425136527 source:/home/guigui/Documents/CodeBlocks/rush_editor/src/Editor.cpp
+	"Editor.h"
+
+1425136072 /home/guigui/Documents/CodeBlocks/rush_editor/include/Editor.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	"Map.h"
+	"MapFile.h"
+
